@@ -1,2 +1,3 @@
 this is text file for merge demo
 this another text
+This is modified
